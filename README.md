@@ -6,7 +6,7 @@
 ... > job_2()
 ... > job_?()
 
-python main.py
+python task_scheduling.py
 ```
 
 ## How to configuration tasks.json
@@ -25,7 +25,7 @@ python main.py
 
 #### Structure :
 ```
-├── main.py
+├── task_scheduling.py
 ├── requirements.txt
 ├── tasks.json
 ```
